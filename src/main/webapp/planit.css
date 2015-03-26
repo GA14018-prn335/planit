@@ -1,0 +1,89 @@
+body * {
+  font-family: 'Open Sans', sans-serif; }
+
+input[type="radio"]:checked + label {
+  background: #286090;
+  color: white; }
+
+h1.logo {
+  text-transform: uppercase;
+  letter-spacing: 32px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 0; }
+
+p.logo {
+  font-size: 21px;
+  letter-spacing: 7px; }
+
+div.event-list {
+  border-radius: 5px;
+  border: 1px solid gainsboro;
+  padding-left: 0; }
+
+.event-list-img-container {
+  padding: 0;
+  margin: 0; }
+  .event-list-img-container img {
+    width: 100px;
+    height: 100px; }
+
+h2.event-list {
+  margin-top: 2px; }
+
+p.event-list-time {
+  font-size: 26px;
+  display: table-caption;
+  margin: 0;
+  line-height: 29px;
+  font-weight: 700; }
+
+.event-list-time-container.event-list-content {
+  margin: 0;
+  padding: 0; }
+
+.event-list-content.col-xs-7 {
+  margin: 0;
+  padding: 0; }
+
+div.event-list {
+  margin-bottom: 16px;
+  cursor: pointer; }
+  div.event-list:hover {
+    background: #286090; }
+    div.event-list:hover * {
+      color: white; }
+
+p.description {
+  overflow-x: scroll; }
+
+h2.date {
+  letter-spacing: 0px;
+  font-weight: 300;
+  display: inline-block;
+  width: 49%;
+  font-size: 29px; }
+
+span.start-time, span.end-time {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 26px; }
+
+h4.location {
+  font-weight: 600;
+  font-size: 22px;
+  margin-top: 0; }
+
+h4.location-label {
+  border-bottom: 1px solid;
+  width: 50%;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: 600;
+  padding-bottom: 2px;
+  margin-bottom: 2px; }
+
+/*# sourceMappingURL=planit.css.map */

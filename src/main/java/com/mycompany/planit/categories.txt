@@ -1,0 +1,14 @@
+Fitness:indoor track,outdoor track,wrestling,fitness,zumba,abs,fencing,yoga
+Performance:performance,ensemble,voice,musical,concert,recital,extravadance,talent,show
+Outdoors:outdoor,horse,camp
+Academics:grad,showcase,capstone,career
+Social:social,dining,mystery,dinner,banquet
+Instruction:life skills,sign language,workshop,lecture,indexing,training,rotc
+Festive:holiday
+Dance:dance,dance party,ballroom,dancing
+Spiritual:devotional,broadcast
+Conference:conference
+Competition:compete,championship,competitive,tournament
+Comedy:comic,comedy
+Theatre:production,theatre,dramatization,drama
+Employee:employee
